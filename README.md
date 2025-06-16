@@ -27,7 +27,7 @@
 
 ###
 
----
+---<h3 align="center"><strong><span style="color:#007BFF;">
    🎓 I’m a 2nd Year IT Undergraduate at Sri Lanka Institute of Information Technology(SLIIT)
 - 🌱 I’m currently learning **React Native,Mongo DB, Docker, UI/UX Design Principle
 - 👨‍💻 All of my projects are available at [https://github.com/nehansasandani](https://github.com/nehansasandani)
