@@ -3,7 +3,10 @@
 </p>
 
 
-<h3 align="center"><strong><span style="color: #007BFF;">IT undergraduate building intuitive and responsive apps.</span></strong></h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=20&duration=3500&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=A+frontend-focused+IT+undergraduate+from+Sri+Lanka%2C+building+intuitive+and+responsive+apps." alt="Typing SVG Subtitle" />
+</p>
+
 
 
 
