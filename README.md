@@ -35,6 +35,23 @@
 - 📫 How to reach me: **wijesinghesandani2001@gmail.com**
 - ⚡ Fun fact: **I build full systems, not just UI – and I love turning ideas into interactive apps 🚀**
 
+- ---
+
+## 🐍 A Snake Eating my Contributions Graph
+<p align="center">
+  <img src="https://github.com/nehansasandani/nehansasandani/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repos
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nehansasandani&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+
+---
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://facebook.com/yourusername" target="_blank" rel="noopener noreferrer">
