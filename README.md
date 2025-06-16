@@ -101,5 +101,4 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nehansasandani&layout=compact&theme=dracula" alt="Top Languages" />
-</p> correct it username nehansasandani
+   correct it username nehansasandani
