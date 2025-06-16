@@ -28,9 +28,8 @@
 ###
 
 ---
-
-- 🌱 I’m currently learning **React Native, Docker, UI/UX Design Principles**
-- 👯 I’m looking to collaborate on [Mobile apps using Kotlin | MERN stack projects](https://github.com/nehansasandani)
+   🎓 I’m a 2nd Year IT Undergraduate at Sri Lanka Institute of Information Technology(SLIIT)
+- 🌱 I’m currently learning **React Native,Mongo DB, Docker, UI/UX Design Principle
 - 👨‍💻 All of my projects are available at [https://github.com/nehansasandani](https://github.com/nehansasandani)
 - 💬 Ask me about **React, MERN Stack, Java, Kotlin Android Apps, UI/UX**
 - 📫 How to reach me: **wijesinghesandani2001@gmail.com**
