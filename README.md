@@ -4,9 +4,8 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3500&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=IT+undergraduate+building+intuitive+and+responsive+apps." alt="Typing SVG Subtitle" />
-</p>
+<h3 align="center"><strong>An IT undergraduate building intuitive and responsive apps.</strong></h3>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nehansasandani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
