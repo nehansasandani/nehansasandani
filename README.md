@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3500&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&IT+undergraduate+from+Sri+Lanka%2C+building+intuitive+and+responsive+apps." alt="Typing SVG Subtitle" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=22&duration=3500&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=An+IT+undergraduate+building+intuitive+and+responsive+apps." alt="Typing SVG Subtitle" />
 </p>
 
 <p align="left">
