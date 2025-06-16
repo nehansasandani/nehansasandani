@@ -3,8 +3,8 @@
 </p>
 
 
+<h3 align="center"><strong><span style="color: #007BFF;">IT undergraduate building intuitive and responsive apps.</span></strong></h3>
 
-<h3 align="center"><strong>An IT undergraduate building intuitive and responsive apps.</strong></h3>
 
 
 <p align="left">
