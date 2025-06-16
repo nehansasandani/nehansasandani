@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandani+Nehansa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=38&weight=700&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandani+Nehansa" alt="Typing SVG" />
 </p>
+
 
 <h3 align="center">A frontend-focused IT undergraduate from Sri Lanka, building intuitive and responsive apps.</h3>
 
