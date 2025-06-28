@@ -1,5 +1,17 @@
 
 <p align="center">
+  <h3 align="center</h3>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/2046015/screenshots/16363101/media/b3c3aa1fa5e0e1c7c99db343e92adf44.gif" width="300" alt="Girl coding" />
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/nehansasandani" target="_blank">
+    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FDD231?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Badge" />
+  </a>
+</p>
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=38&weight=700&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandani+Nehansa" alt="Typing SVG" />
 </p>
 
