@@ -11,6 +11,11 @@
 <h3 align="center">
   <strong><span style="color: #007BFF;">IT undergraduate building intuitive and responsive apps.</span></strong>
 </h3>
+ <p align='center'>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="320px" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="320px" height="200">
+</p>
+
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="left">
