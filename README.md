@@ -1,12 +1,5 @@
 
 <p align="center">
-  <h3 align="center</h3>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/2046015/screenshots/16363101/media/b3c3aa1fa5e0e1c7c99db343e92adf44.gif" width="300" alt="Girl coding" />
-</p>
-
-<p align="center">
   <a href="https://www.buymeacoffee.com/nehansasandani" target="_blank">
 
   </a>
