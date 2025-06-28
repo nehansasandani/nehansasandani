@@ -30,6 +30,7 @@
 - 📫 Reach me at: **wijesinghesandani2001@gmail.com**
 - ⚡ Fun fact: **I build full systems, not just UI – and I love turning ideas into interactive apps 🚀**
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 
 ## 🔝 Top Contributed Repos
