@@ -67,7 +67,7 @@ c
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=20&color=0EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=0EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" 
     alt="Typing SVG"
   />
 </p>
