@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/nehansasandani" target="_blank">
-    <img src="https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-FDD231?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee Badge" />
+
   </a>
 </p>
 
