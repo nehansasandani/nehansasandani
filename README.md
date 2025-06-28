@@ -39,7 +39,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=nehansasandani&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
----
+
 
 ### 🤝 Connect with me:
 
@@ -52,7 +52,7 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🛠️ Languages and Tools:
 
