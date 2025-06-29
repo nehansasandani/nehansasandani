@@ -7,6 +7,9 @@
 <h3 align="center">
   <strong>IT undergraduate building intuitive and responsive apps.</strong>
 </h3>
+<div align="center">
+  <img src="https://github.com/pazindushane/pazindushane/blob/master/assets/ppimage.gif" alt="Animated Image">
+</div>
 
 
 <p align="center">
