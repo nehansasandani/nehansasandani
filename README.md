@@ -79,6 +79,7 @@ c
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 📫 Let's Connect
+
 If you enjoy my projects and want to stay updated with my latest work,
 don’t forget to follow me and ⭐ the repositories you find interesting!
 I’m always open to collaborations, discussions, or chatting about tech, problem-solving, or superheroes.
@@ -91,4 +92,3 @@ I’m always open to collaborations, discussions, or chatting about tech, proble
   />
 </p>
 
-is this code has error 
