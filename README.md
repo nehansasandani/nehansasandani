@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://www.buymeacoffee.com/nehansasandani" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=nehansasandani&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=38&weight=700&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandani+Nehansa" alt="Typing SVG" />
