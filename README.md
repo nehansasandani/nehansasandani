@@ -35,7 +35,7 @@
 - 💬 Ask me about **React, MERN Stack, Java, Kotlin Android Apps, UI/UX**
 - 📫 Reach me at: **wijesinghesandani2001@gmail.com**
 - ⚡ Fun fact: **I build full systems, not just UI – and I love turning ideas into interactive apps 🚀**
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 ---
 
 ## 🔝 Top Contributed Repos
@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=nehansasandani&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 ---
 
 ### 🤝 Connect with me:
@@ -56,7 +56,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 ---
 
 ### 🛠️ Languages and Tools:
