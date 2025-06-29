@@ -24,7 +24,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Stats graph" />
 </div>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 ---
 
 ### 📚 About Me
@@ -78,7 +78,7 @@
 ---
 
 <p align="center">
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="600px" />
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="800px" />
 </p>
 
 <p align="center">
