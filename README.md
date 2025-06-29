@@ -84,12 +84,14 @@
 <p align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="800px" />
 </p>
+
 ## 📫 Let's Connect:
  If you enjoy my projects and want to stay updated with my latest work,
  don't forget to follow me and star ⭐ the repositories you find interesting!
 I’m always open to collaborations, discussions, or chatting about tech, problem-solving, or superheroes. Feel free to reach out:
 
 <img src="https://img1.picmix.com/output/stamp/thumb/1/6/7/7/2417761_2ff32.gif" />
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=0EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" alt="Typing SVG" />
 </p>
