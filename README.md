@@ -15,9 +15,6 @@
     <img alt="Coding" width="1000" src="https://imgur.com/wKVYIgC.png">
 </p> -->
 
-<p align="center">
-    I'm a software engineering student passionate about creating innovative solutions and exploring technology.
-</p>
 
 swift
 public class Person {
@@ -41,7 +38,7 @@ public class Person {
 
     public static void main(String[] args) {
         Person person = new Person(
-            "Kawodya Arachchige",
+            "Sandani Nehansa",
             "Software Developer & Designer",
             Arrays.asList("Problem Solving", "UI/UX Design", "Creative Thinking", "Coding"),
             Arrays.asList("Attention to Detail", "Innovative Ideas", "Collaborative Team Player")
