@@ -11,6 +11,46 @@
   <img src="https://github.com/pazindushane/pazindushane/blob/master/assets/ppimage.gif" alt="Animated Image">
 </div>
 
+<!-- <p align="center">
+    <img alt="Coding" width="1000" src="https://imgur.com/wKVYIgC.png">
+</p> -->
+
+<p align="center">
+    I'm a software engineering student passionate about creating innovative solutions and exploring technology.
+</p>
+
+swift
+public class Person {
+    private String name;
+    private String role;
+    private List<String> skills;
+    private List<String> strengths;
+
+    public Person(String name, String role, List<String> skills, List<String> strengths) {
+        this.name = name;
+        this.role = role;
+        this.skills = skills;
+        this.strengths = strengths;
+    }
+
+    public void introduce() {
+        System.out.println("Hi, I'm " + name + ", a " + role + ".");
+        System.out.println("My core skills include: " + String.join(", ", skills) + ".");
+        System.out.println("My strengths: " + String.join(", ", strengths) + ".");
+    }
+
+    public static void main(String[] args) {
+        Person person = new Person(
+            "Kawodya Arachchige",
+            "Software Developer & Designer",
+            Arrays.asList("Problem Solving", "UI/UX Design", "Creative Thinking", "Coding"),
+            Arrays.asList("Attention to Detail", "Innovative Ideas", "Collaborative Team Player")
+        );
+
+        person.introduce();
+    }
+}
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
