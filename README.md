@@ -4,18 +4,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=38&weight=700&duration=3000&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Sandani+Nehansa" alt="Typing SVG" />
 </p>
 
-<h3 align="center">
-  <strong>IT undergraduate building intuitive and responsive apps.</strong>
-</h3>
+<h3 align="center"><strong>IT undergraduate building intuitive and responsive apps.</strong></h3>
+
 <div align="center">
-  <img src="https://github.com/pazindushane/pazindushane/blob/master/assets/ppimage.gif" alt="Animated Image">
+  <img src="https://github.com/pazindushane/pazindushane/blob/master/assets/ppimage.gif" alt="Animated Image" width="250px" />
 </div>
 
-<!-- <p align="center">
-    <img alt="Coding" width="1000" src="https://imgur.com/wKVYIgC.png">
-</p> -->
+---
 
+### 👩‍💻 Java Introduction Program
 
+```java
+import java.util.Arrays;
+import java.util.List;
 
 public class Person {
     private String name;
@@ -43,7 +44,6 @@ public class Person {
             Arrays.asList("Problem Solving", "UI/UX Design", "Creative Thinking", "Coding"),
             Arrays.asList("Attention to Detail", "Innovative Ideas", "Collaborative Team Player")
         );
-
         person.introduce();
     }
 }
