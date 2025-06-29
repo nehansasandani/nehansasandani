@@ -8,11 +8,7 @@
   <strong>IT undergraduate building intuitive and responsive apps.</strong>
 </h3>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=25&duration=4000&color=1B78B2&background=EB00FF00&center=true&vCenter=true&width=250&lines=FullStack+Developer;" alt="Typing SVG">
-  </a>
-</div>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </p>
