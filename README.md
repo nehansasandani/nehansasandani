@@ -17,7 +17,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nehansasandani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula" height="150" alt="Trophy graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="Stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="Stats graph" />
 </div>
 
 ---
@@ -43,10 +43,10 @@
 ### 🤝 Connect with me
 
 <p align="left">
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+  <a href="https://facebook.com/nehansasandani" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="https://instagram.com/nehansasandani" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
   </a>
 </p>
@@ -78,5 +78,4 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=0EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" alt="Thanks SVG" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.
