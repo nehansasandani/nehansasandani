@@ -3,12 +3,13 @@
 </p>
 
 <h3 align="center">
-  <strong><span style="color: #007BFF;">IT undergraduate building intuitive and responsive apps.</span></strong>
+  <strong style="color: #007BFF;">IT undergraduate building intuitive and responsive apps.</strong>
 </h3>
 
 <div align="center">
   <img src="https://github.com/pazindushane/pazindushane/blob/master/assets/ppimage.gif" alt="Animated Image" />
 </div>
+
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
 <p align="left">
@@ -21,34 +22,28 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="Stats graph" />
 </div>
 
- <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
-
-
+---
 
 ### 📚 About Me
+
 - 🎓 I’m a 2nd Year IT Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**
-- 🌱 I’m currently learning **React Native, MongoDB, Docker, UI/UX Design Principles**
-- 👨‍💻 All of my projects are available at [github.com/nehansasandani](https://github.com/nehansasandani)
-- 💬 Ask me about **React, MERN Stack, Java, Kotlin Android Apps, UI/UX**
-- 📫 Reach me at: **wijesinghesandani2001@gmail.com**
-- ⚡ Fun fact: **I build full systems, not just UI – and I love turning ideas into interactive apps 🚀**
+- 🌱 Currently learning: **React Native, MongoDB, Docker, UI/UX Design**
+- 👨‍💻 My projects: [github.com/nehansasandani](https://github.com/nehansasandani)
+- 💬 Ask me about: **React, MERN Stack, Java, Kotlin, UI/UX**
+- 📫 Email: **wijesinghesandani2001@gmail.com**
+- ⚡ Fun fact: **I build full systems, not just UI – I love turning ideas into interactive apps 🚀**
 
-  
-   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+---
 
-
-## 🔝 Top Contributed Repos
+### 🔝 Top Contributed Repos
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=nehansasandani&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
+---
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
-
-
-
-### 🤝 Connect with me
+### 🤝 Connect with Me
 
 <p align="left">
   <a href="https://facebook.com/nehansasandani" target="_blank">
@@ -59,9 +54,7 @@
   </a>
 </p>
 
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
-
+---
 
 ### 🛠️ Languages and Tools
 
@@ -81,11 +74,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
 </p>
 
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
-
-
+---
 
 <p align="center">
-     <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="45px" />  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  <img src = "https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  📫 Let's Connect  If you enjoy my projects and want to stay updated with my latest work, don’t forget to follow me and ⭐ the repositories you find interesting! I’m always open to collaborations, discussions, or chatting about tech, problem-solving, or superheroes.  <p align="center"> <img src="https://img1.picmix.com/output/stamp/thumb/1/6/7/7/2417761_2ff32.gif" /> <p align="center">   <img      src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=0EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!"      alt="Typing SVG"   /> </p>  
-  <img src="https://readme-typing-svg.herokuapp.
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="45px" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="45px" />
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="45px" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=0EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" alt="Thanks SVG" />
+</p>
