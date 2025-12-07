@@ -17,9 +17,16 @@
 </p>
 
 <div align="center">
+
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=nehansasandani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula" height="150" alt="Trophy graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="Stats graph" />
+
+  <!-- Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula&no-frame=true" height="150" alt="Trophy graph" />
+
+  <!-- GitHub Stats (Fixed version) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula" height="150" alt="Stats graph" />
+
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
@@ -83,7 +90,6 @@
 </p>
 
 <p align="center">
-  
   📫 Let's Connect! If you enjoy my projects and want to stay updated, follow me and ⭐ repositories you find interesting!
 </p>
 
