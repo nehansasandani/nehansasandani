@@ -17,9 +17,14 @@
 </p>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nehansasandani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="Streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula" height="150" alt="Trophy graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="Stats graph" />
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=nehansasandani&theme=dracula&hide_border=true&border_radius=6" height="200" alt="Streak graph" />
+
+  <!-- Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula&margin-w=10&margin-h=10" height="200" alt="Trophy graph" />
+
+  <!-- Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github&hide_border=true" height="200" alt="Stats graph" />
 </div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
