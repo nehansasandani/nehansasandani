@@ -16,37 +16,54 @@
   <img src="https://komarev.com/ghpvc/?username=nehansasandani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- FIXED GRAPH SECTION -->
+---
+
+## 🔥 GitHub Activity & Stats (Fixed)
+
 <div align="center">
 
-  <!-- Streak Graph -->
-  <p>
-    <img src="https://streak-stats.demolab.com?user=nehansasandani&theme=dracula&hide_border=false&border_radius=5" alt="Streak graph"/>
-  </p>
+  <!-- ⭐ STREAK GRAPH -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=nehansasandani&theme=dracula&hide_border=false" 
+    alt="Streak Stats" 
+    width="80%"
+  />
 
-  <!-- Profile Trophy -->
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula&margin-w=5&margin-h=5" alt="Trophy graph"/>
-  </p>
+  <!-- 🏆 TROPHY -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula&row=1&column=6" 
+    alt="Trophies" 
+    width="90%"
+  />
 
-  <!-- GitHub Stats -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true" alt="Stats graph"/>
-  </p>
+  <!-- 📊 GITHUB STATS -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" 
+    alt="GitHub Stats"
+    width="80%"
+  />
 
+  <!-- 💡 TOP LANGUAGES -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehansasandani&layout=compact&theme=dracula" 
+    alt="Top Languages" 
+    width="60%"
+  />
 </div>
 
+---
+
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
 
-### 📚 About Me
-- 🎓 I’m a 2nd Year IT Undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)**
-- 🌱 Learning **React Native, MongoDB, Docker, UI/UX Design Principles**
+## 📚 About Me
+- 🎓 I’m a 2nd Year IT Undergraduate at **SLIIT**
+- 🌱 Learning **React Native, MongoDB, Docker, UI/UX Design**
 - 👨‍💻 All projects: [github.com/nehansasandani](https://github.com/nehansasandani)
-- 💬 Ask me about **React, MERN Stack, Java, Kotlin Android Apps, UI/UX**
+- 💬 Ask me about **React, MERN, Java, Kotlin, Android Apps**
 - 📫 Email: **wijesinghesandani2001@gmail.com**
-- ⚡ Fun fact: **I turn ideas into real working apps 🚀**
+- ⚡ Fun fact: **I turn ideas into working apps 🚀**
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+---
 
 ## 🔝 Top Contributed Repos
 
@@ -54,24 +71,24 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=nehansasandani&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+---
 
-### 🤝 Connect with me
+## 🤝 Connect with me
 
-<p align="left">
+<p align="center">
   <a href="https://facebook.com/nehansasandani" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50"/>
   </a>
   <a href="https://instagram.com/nehansasandani" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="50"/>
   </a>
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
@@ -87,22 +104,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50"/>
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+---
 
 <p align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="45px"/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"/>
-</p>
-
-<p align="center">
-  📫 Let's Connect! Follow me and ⭐ the repos you like!
-</p>
-
-<p align="center">
-  <img src="https://img1.picmix.com/output/stamp/thumb/1/6/7/7/2417761_2ff32.gif"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=0EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=0EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+
