@@ -93,4 +93,4 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=0EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" alt="Thanks Typing SVG" />
-</p>  is this code has error give full correct code
+</p> 
