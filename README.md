@@ -18,6 +18,8 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
 
   <!-- Streak Graph -->
@@ -37,7 +39,6 @@
       alt="GitHub Stats" 
     />
   </a>
-  </div>
 
   <!-- Trophy Graph -->
   <img 
@@ -48,7 +49,6 @@
   />
 
 </div>
-
 
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="border-radius:15px; margin:20px 0;" />
