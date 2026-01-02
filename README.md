@@ -17,8 +17,6 @@
 </p>
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
-
 <div align="center">
 
   <!-- Streak Graph -->
@@ -47,6 +45,11 @@
     alt="Trophy graph" 
   />
 
+</div>
+<div align="center">
+  <a href="https://github.com/SakithaSamarathunga33">
+    <img src="https://github-profile-trophy.vercel.app/?username=SakithaSamarathunga33&theme=discord&no-frame=true&column=7&row=1&margin-w=15" />
+  </a>
 </div>
 
 
