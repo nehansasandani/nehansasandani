@@ -16,6 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=nehansasandani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nehansasandani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" style="margin:5px;" alt="Streak graph" />
  <a href="https://github.com/nehansasandani">
