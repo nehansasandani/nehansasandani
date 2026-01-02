@@ -17,8 +17,8 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/SakithaSamarathunga33">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SakithaSamarathunga33&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <a href="https://github.com/"nehansasandani">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehansasandani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
   <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula" height="150" style="margin:5px;" alt="Trophy graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true" height="150" style="margin:5px;" alt="Stats graph" />
