@@ -18,8 +18,6 @@
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
 
   <!-- Streak Graph -->
