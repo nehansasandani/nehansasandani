@@ -25,12 +25,12 @@
 <img width="100%" src="https://raw.githubusercontent.com/nehansasandani/Assets/main/separator.gif"/>
 
 ### 📚 About Me
-- 🎓 I’m a 2nd Year IT Undergraduate at *Sri Lanka Institute of Information Technology (SLIIT)*
-- 🌱 I’m currently learning *React Native, MongoDB, Docker, UI/UX Design Principles*
-- 👨‍💻 All of my projects are available at [github.com/nehansasandani](https://github.com/nehansasandani)
-- 💬 Ask me about *React, MERN Stack, Java, Kotlin Android Apps, UI/UX*
-- 📫 Reach me at: *wijesinghesandani2001@gmail.com*
-- ⚡ Fun fact: *I build full systems, not just UI – and I love turning ideas into interactive apps 🚀*
+- 🎓 I’m a 2nd Year IT Undergraduate at *Sri Lanka Institute of Information Technology (SLIIT)*  
+- 🌱 I’m currently learning *React Native, MongoDB, Docker, UI/UX Design Principles*  
+- 👨‍💻 All of my projects are available at [github.com/nehansasandani](https://github.com/nehansasandani)  
+- 💬 Ask me about *React, MERN Stack, Java, Kotlin Android Apps, UI/UX*  
+- 📫 Reach me at: *wijesinghesandani2001@gmail.com*  
+- ⚡ Fun fact: *I build full systems, not just UI – and I love turning ideas into interactive apps 🚀*  
 
 <img width="100%" src="https://raw.githubusercontent.com/nehansasandani/Assets/main/separator.gif"/>
 
@@ -55,19 +55,19 @@
 
 ### 🛠 Languages and Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" height="50"/>
 </p>
 
 <img width="100%" src="https://raw.githubusercontent.com/nehansasandani/Assets/main/separator.gif"/>
@@ -90,3 +90,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=0EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" alt="Thanks Typing SVG" />
 </p>
+
