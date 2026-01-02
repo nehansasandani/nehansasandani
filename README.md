@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nehansasandani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" style="margin:5px;" alt="Streak graph" />
   <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula" height="150" style="margin:5px;" alt="Trophy graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true" height="150" style="margin:5px;" alt="Stats graph" />
+  
   <a href="https://github.com/nehansasandani">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehansasandani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
