@@ -66,12 +66,15 @@
 
 ### 🤝 Connect with me
 <p align="left">
+
+   <a href="https://www.linkedin.com/in/sandani-nehansa-0b5067395" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" style="margin-right:10px;" />
+  </a>
+  
   <a href="https://facebook.com/nehansasandani" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" style="margin-right:10px;"/>
   </a>
-  <a href="https://www.linkedin.com/in/sandani-nehansa-0b5067395" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="50" width="50" style="margin-right:10px;" />
-  </a>
+
   <a href="https://instagram.com/nehansasandani" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
   </a>
