@@ -17,16 +17,15 @@
 </p>
 
 ### 📊 GitHub Stats
-
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+<div align="center">
 
   <!-- Streak Graph -->
   <img 
     src="https://streak-stats.demolab.com?user=nehansasandani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=15" 
     height="150" 
-    style="box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:15px;" 
+    style="margin:10px; box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:15px;" 
     alt="Streak graph" 
   />
 
@@ -35,7 +34,7 @@
     <img 
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehansasandani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" 
       height="180" 
-      style="box-shadow: 0 8px 25px rgba(0,0,0,0.35); border-radius:15px;" 
+      style="margin:15px 0; box-shadow: 0 8px 25px rgba(0,0,0,0.35); border-radius:15px;" 
       alt="GitHub Stats" 
     />
   </a>
@@ -44,11 +43,12 @@
   <img 
     src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula" 
     height="150" 
-    style="box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:15px;" 
+    style="margin:10px; box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:15px;" 
     alt="Trophy graph" 
   />
 
 </div>
+
 
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="border-radius:15px; margin:20px 0;" />
