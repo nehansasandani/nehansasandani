@@ -47,7 +47,7 @@
     alt="Trophy graph" 
   />
 
-
+</div>
 
 
 
