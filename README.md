@@ -7,10 +7,10 @@
 </h3>
 
 <div align="center">
-  <img src="https://github.com/pazindushane/pazindushane/blob/master/assets/ppimage.gif" alt="Animated Image" />
+  <img src="https://raw.githubusercontent.com/nehansasandani/Assets/main/ppimage.gif" alt="Animated Image" width="300"/>
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/nehansasandani/Assets/main/separator.gif"/>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=nehansasandani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -22,7 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true" height="150" alt="Stats graph" />
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/nehansasandani/Assets/main/separator.gif"/>
 
 ### 📚 About Me
 - 🎓 I’m a 2nd Year IT Undergraduate at *Sri Lanka Institute of Information Technology (SLIIT)*
@@ -32,18 +32,16 @@
 - 📫 Reach me at: *wijesinghesandani2001@gmail.com*
 - ⚡ Fun fact: *I build full systems, not just UI – and I love turning ideas into interactive apps 🚀*
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/nehansasandani/Assets/main/separator.gif"/>
 
 ## 🔝 Top Contributed Repos
-
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=nehansasandani&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/nehansasandani/Assets/main/separator.gif"/>
 
 ### 🤝 Connect with me
-
 <p align="left">
   <a href="https://facebook.com/nehansasandani" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" />
@@ -53,27 +51,26 @@
   </a>
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/nehansasandani/Assets/main/separator.gif"/>
 
 ### 🛠 Languages and Tools
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="50" height="50"/>
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/nehansasandani/Assets/main/separator.gif"/>
 
 <p align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" width="45px" />
@@ -83,7 +80,6 @@
 </p>
 
 <p align="center">
-  
   📫 Let's Connect! If you enjoy my projects and want to stay updated, follow me and ⭐ repositories you find interesting!
 </p>
 
@@ -93,4 +89,4 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=30&color=0EAA20&vCenter=true&lines=Thanks+for+visiting!+You're+welcome!" alt="Thanks Typing SVG" />
-</p> 
+</p>
