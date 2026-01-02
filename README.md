@@ -38,17 +38,10 @@
   </a>
 
   <!-- Trophy Graph -->
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula" 
-    height="150" 
-    style="margin:10px; box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:15px;" 
-    alt="Trophy graph" 
-  />
-
-</div>
+ 
 <div align="center">
-  <a href="https://github.com/SakithaSamarathunga33">
-    <img src="https://github-profile-trophy.vercel.app/?username=SakithaSamarathunga33&theme=discord&no-frame=true&column=7&row=1&margin-w=15" />
+  <a href="https://github.com/nehansasandani">
+    <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=discord&no-frame=true&column=7&row=1&margin-w=15" />
   </a>
 </div>
 
