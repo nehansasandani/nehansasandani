@@ -19,7 +19,8 @@
 <div align="center">
   <a href="https://github.com/nehansasandani">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>  can add light color for this
+  </a>  
+  
   <a href="https://github.com/nehansasandani">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nehansasandani&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
   </a>
