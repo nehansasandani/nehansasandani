@@ -16,34 +16,12 @@
   <img src="https://komarev.com/ghpvc/?username=nehansasandani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-### 📊 GitHub Stats
 <div align="center">
-
-  <!-- Streak Graph -->
-  <img 
-    src="https://streak-stats.demolab.com?user=nehansasandani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=15" 
-    height="150" 
-    style="margin:10px; box-shadow: 0 5px 20px rgba(0,0,0,0.3); border-radius:15px;" 
-    alt="Streak graph" 
-  />
-
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/nehansasandani" target="_blank">
-    <img 
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehansasandani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" 
-      height="180" 
-      style="margin:15px 0; box-shadow: 0 8px 25px rgba(0,0,0,0.35); border-radius:15px;" 
-      alt="GitHub Stats" 
-    />
-  </a>
-
-  <!-- Trophy Graph -->
- 
-<div align="center">
-  <a href="https://github.com/nehansasandani">
-    <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=discord&no-frame=true&column=7&row=1&margin-w=15" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=nehansasandani&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" style="margin:5px;" alt="Streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula" height="150" style="margin:5px;" alt="Trophy graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true" height="150" style="margin:5px;" alt="Stats graph" />
 </div>
+
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="border-radius:15px; margin:20px 0;" />
 
 ### 📚 About Me
@@ -65,9 +43,6 @@
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/sandani-nehansa-0b5067395" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="50" width="50" style="margin-right:10px;" />
-  </a>
   <a href="https://facebook.com/nehansasandani" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" style="margin-right:10px;"/>
   </a>
