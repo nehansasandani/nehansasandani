@@ -31,6 +31,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehansasandani&theme=dracula&hide_border=true"/>
   </a>
 </div>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="border-radius:15px; margin:20px 0;" />
+
 
 ## 🏆 GitHub Trophies
 
