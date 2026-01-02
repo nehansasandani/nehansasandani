@@ -37,6 +37,7 @@
       alt="GitHub Stats" 
     />
   </a>
+  </div>
 
   <!-- Trophy Graph -->
   <img 
@@ -46,7 +47,7 @@
     alt="Trophy graph" 
   />
 
-</div>
+
 
 
 
