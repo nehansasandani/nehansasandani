@@ -38,12 +38,9 @@
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <a href="https://github.com/nehansasandani">
-    <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=dracula&no-frame=true&column=7&row=1&margin-w=15"/>
-  </a>
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="border-radius:15px; margin:20px 0;" />
 
