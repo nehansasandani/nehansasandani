@@ -64,21 +64,31 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="border-radius:15px; margin:20px 0;" />
 
+
 ### 🤝 Connect with me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sandani-nehansa-0b5067395" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" width="50" style="margin: 8px;"/>
-  </a>
-
-  <a href="https://facebook.com/nehansasandani" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="50" width="50" style="margin: 8px;"/>
-  </a>
-
-  <a href="https://instagram.com/nehansasandani" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="50" width="50" style="margin: 8px;"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90">
+      <a href="https://www.linkedin.com/in/sandani-nehansa-0b5067395" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/><br/>
+        LinkedIn
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://facebook.com/nehansasandani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="50" height="50"/><br/>
+        Facebook
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://instagram.com/nehansasandani" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="50" height="50"/><br/>
+        Instagram
+      </a>
+    </td>
+  </tr>
+</table>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="border-radius:15px; margin:20px 0;" />
 ### 🛠 Languages and Tools
