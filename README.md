@@ -39,7 +39,9 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <img
