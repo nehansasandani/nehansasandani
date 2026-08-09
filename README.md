@@ -39,10 +39,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img 
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=nehansasandani"
-    alt="GitHub Trophies"
-  />
+  <img src="https://trophy.ryglcloud.net/?username=nehansasandani" alt="GitHub Trophies">
 </p>
 
 
