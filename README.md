@@ -37,11 +37,12 @@
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=nehansasandani&show_icons=true&theme=dark&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&include_all_commits=true&theme=dark"
     width="48%"
   />
+
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=nehansasandani&layout=compact&theme=dark"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehansasandani&layout=compact&theme=dark"
     width="48%"
   />
 </p>
