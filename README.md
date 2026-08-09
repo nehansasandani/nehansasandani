@@ -33,18 +33,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehansasandani&theme=dracula&hide_border=true"/>
   </a>
 </div>
-## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nehansasandani&show_icons=true&theme=dark&hide_border=false"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehansasandani&layout=compact&theme=dark&hide_border=false"
-    width="48%"
-  />
-</p>
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="border-radius:15px; margin:20px 0;" />
 
 
