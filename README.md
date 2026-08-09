@@ -37,7 +37,7 @@
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=nehansasandani&show_icons=true&theme=dark"
+    src="https://github-stats-extended.vercel.app/api?username=nehansasandani&show_icons=true&theme=dark&include_all_commits=true"
     width="48%"
   />
   <img
