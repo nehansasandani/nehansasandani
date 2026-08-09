@@ -16,23 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=nehansasandani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/nehansasandani">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehansasandani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>  
-  
-  <a href="https://github.com/nehansasandani">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nehansasandani&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/nehansasandani">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehansasandani&theme=dracula&hide_border=true"/>
-  </a>
-</div>
 ## 📊 GitHub Stats
 
 <p align="center">
