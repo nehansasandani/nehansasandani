@@ -39,11 +39,10 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani&theme=flat&margin-w=15&margin-h=15" />
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="border-radius:15px; margin:20px 0;" />
-
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 ### 📚 About Me
 - 🎓 I’m a 2nd Year IT Undergraduate at *Sri Lanka Institute of Information Technology (SLIIT)*
 - 🌱 I’m currently learning *React Native, MongoDB, Docker, UI/UX Design Principles*
