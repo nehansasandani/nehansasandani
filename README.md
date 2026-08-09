@@ -28,7 +28,20 @@
 
 </div>
 
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nehansasandani&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nehansasandani&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+
+</div>
+
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="border-radius:15px; margin:20px 0;" />
+
+
 
 
 ## 🏆 GitHub Trophies
