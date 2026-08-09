@@ -40,15 +40,12 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nehansasandani" alt="GitHub Trophies" />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=nehansasandani"
+      alt="GitHub Trophies"
+    />
   </a>
 </p>
-
-<img
-  width="100%"
-  src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"
-  style="border-radius:15px; margin:20px 0;"
-/>
 
 
 ### 📚 About Me
