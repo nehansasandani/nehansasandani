@@ -17,15 +17,6 @@
 </p>
 
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-ochre-mu-91.vercel.app/api?username=nehansasandani&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats-ochre-mu-91.vercel.app/api/top-langs/?username=nehansasandani&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
-
-</div>
 
 ## 📊 GitHub Statistics
 
